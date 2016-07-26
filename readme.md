@@ -1,7 +1,5 @@
 # Interannual variability at Moss Landing seawater intake
 
-Analysis of water property anomalies since 2010. Data is available at http://seawater.mlml.calstate.edu
-
 View analysis in an [IPython notebook] (MLML_shorestation_interannual.ipynb)
 
 ### Packages
