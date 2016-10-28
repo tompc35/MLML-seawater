@@ -8,7 +8,7 @@ Code uses the following, in addition to standard Python packages:
 
 * xarray http://xarray.pydata.org
 
-* MLML physoce https://github.com/tompc35/physoce
+* MLML physoce https://github.com/physoce/physoce-py
 
 ### Downloading data and creating NetCDF file
 
