@@ -1,6 +1,6 @@
 # Interannual variability at Moss Landing seawater intake
 
-View analysis in an [IPython notebook] (MLML_shorestation_interannual.ipynb)
+View analysis in an [IPython notebook](MLML_shorestation_interannual.ipynb)
 
 ### Packages
 
